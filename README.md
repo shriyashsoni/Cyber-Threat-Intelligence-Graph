@@ -1,5 +1,8 @@
 # Cyber Threat Intelligence Graph
 
+![Image](https://github.com/user-attachments/assets/7c4dfb4a-4075-4c07-8f4f-447095f23992)
+
+
 ## Overview
 The **Cyber Threat Intelligence Graph** is a cybersecurity tool that helps detect malicious IPs, domains, and threats using a graph database. It integrates **ArangoDB** for threat data storage and **OpenAI's ChatGPT API** for intelligent threat analysis.
 
